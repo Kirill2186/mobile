@@ -10,5 +10,7 @@
 
 <li> <a href="https://drive.google.com/file/d/1ppmd91bnM9w81s5tqPrAslZTdLGQjQxR/view?usp=drive_link">Отчет по результатам тестирования</a> </li>
 
+<li> <a href="https://drive.google.com/file/d/1FSIxd-gwyMcaV9eRxFXimQ6_6De0q_jv/view?usp=drive_link">Перехватываем и изменяем трафик на смартфоне</a> </li>
+
 
 </div>
