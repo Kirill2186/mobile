@@ -1,16 +1,16 @@
 # Тестирование мобильных приложений
 
+- [Чек-лист для тестирования мобильного приложения](https://docs.google.com/spreadsheets/d/1OapRmJVCMrbR6y6-LTR0Pq9EAqsijON0/edit?gid=710016004#gid=710016004)  
+  _Составил чек-лист для ручного тестирования мобильного приложения интернет-магазина_
 
-<div>
-<li> <a href="https://docs.google.com/spreadsheets/d/1OapRmJVCMrbR6y6-LTR0Pq9EAqsijON0/edit?usp=drive_link&ouid=114163468163669774738&rtpof=true&sd=true">Cheklist для тестирования мобильных приложений</a> </li>
+- [Тест-ран по мобильному приложению (G10-Test run, 15.06.2025)](https://drive.google.com/file/d/1zGqjIbP0uTyG0Fne25UB76Ly8yE6Db9B/view)  
+  _Провёл тест-ран по ключевым пользовательским сценариям мобильного приложения интернет-магазина_
 
-<li> <a href="https://drive.google.com/file/d/1zGqjIbP0uTyG0Fne25UB76Ly8yE6Db9B/view?usp=drive_link"> G10-Test+run+2025_06_15 по мобильному приложению</a> </li>
+- [Баг-репорты по мобильному приложению (YouTrack)](https://docs.google.com/spreadsheets/d/1H78mhNr86SgaXb0kuw6TiIM-jVkIykBl/edit?gid=1188440958#gid=1188440958)  
+  _Оформил баг-репорты по результатам тестирования мобильной версии интернет-магазина_
 
-<li> <a href="https://docs.google.com/spreadsheets/d/1H78mhNr86SgaXb0kuw6TiIM-jVkIykBl/edit?usp=drive_link&ouid=114163468163669774738&rtpof=true&sd=true">Youtrack баги по мобильному приложению</a> </li>
+- [Отчёт по результатам тестирования мобильного приложения](https://drive.google.com/file/d/1ppmd91bnM9w81s5tqPrAslZTdLGQjQxR/view)  
+  _Подготовил детализированный отчёт по итогам тестирования мобильного приложения интернет-магазина_
 
-<li> <a href="https://drive.google.com/file/d/1ppmd91bnM9w81s5tqPrAslZTdLGQjQxR/view?usp=drive_link">Отчет по результатам тестирования</a> </li>
-
-<li> <a href="https://drive.google.com/file/d/1FSIxd-gwyMcaV9eRxFXimQ6_6De0q_jv/view?usp=drive_link">Перехватываем и изменяем трафик на смартфоне</a> </li>
-
-
-</div>
+- [Перехват и анализ трафика мобильного приложения через Charles Proxy](https://drive.google.com/file/d/1FSIxd-gwyMcaV9eRxFXimQ6_6De0q_jv/view)  
+  _Провёл перехват и анализ сетевого трафика мобильного приложения интернет-магазина с помощью Charles Proxy_
